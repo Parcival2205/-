@@ -5,4 +5,6 @@ _This is my very own Webpage :)_
 <p> Hello to this beautiful Webpage with the following Features </p>
 
 # Features 
-`test`
+
+* cool 404 Page
+* nothing else
